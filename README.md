@@ -1,8 +1,8 @@
 # calculator-Assessment-15
 
-##My Very First Assessment at Sail Techtalent
+## My Very First Assessment at Sail Techtalent
 
-###Html/CSS calculator. 
+### Html/CSS calculator. 
 
 No functionality yet. I'll get there soon 😆 
 
